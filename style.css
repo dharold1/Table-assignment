@@ -1,0 +1,28 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 50px;
+    justify-items: center;
+    text-align: center;
+    margin: auto;
+
+}
+.nameT{
+    min-width: 200px;
+}
+.emailT{
+    min-width: 200px;
+}
+.data{
+    display: flex7;
+    max-width: 00px;
+    justify-content: center;
+    position: relative;
+    margin: auto;
+}
+.btn{
+    margin-top: 20px;
+    margin-left: 30px;
+    padding: 5px;
+    width: 100px;
+}
